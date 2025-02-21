@@ -15,7 +15,7 @@ This script, `insta.py`, is designed for **educational purposes only**. It demon
      pkg install git python -y
      git clone https://github.com/Abubakar-yerbour/Instagram-hacking-.git
      cd Instagram-hacking- 
-     python insta py
+     python insta.py
      
 
 
