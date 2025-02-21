@@ -11,6 +11,13 @@ This script, `insta.py`, is designed for **educational purposes only**. It demon
   ```sh
   pip install -r requirements.txt
 
+  USAGE
+  pkg update -y && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/Abubakar-yerbour/Instagram-hacking-.git
+cd Instagram-hacking-
+python insta.py
+
 
 
 DISCLAIMER 
