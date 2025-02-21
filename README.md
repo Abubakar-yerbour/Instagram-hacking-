@@ -9,8 +9,18 @@ This script, `insta.py`, is designed for **educational purposes only**. It demon
 - Python 3.x
 - Required libraries (install with `pip`):
   ```sh
-  pip install -r requirements.txt
-  pkg install git python -y git clone https://github.com/Abubakar-yerbour/Instagram-hacking-.git cd Instagram-hacking- python insta.py
+
+## USAGE 
+     pkg update && upgrade 
+     pkg install git python -y
+     git clone https://github.com/Abubakar-yerbour/Instagram-hacking-.git
+     cd Instagram-hacking- 
+     python insta py
+     
+
+
+
+
 
 
 
